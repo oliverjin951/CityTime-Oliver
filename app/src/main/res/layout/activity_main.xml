@@ -36,8 +36,7 @@
                     android:layout_height="wrap_content"
                     android:background="#F1511B"
                     android:text="@string/refresh_12hour_time"
-                    android:textColor="@android:color/white"
-                    />
+                    android:textColor="@android:color/white" />
             </LinearLayout>
 
 
