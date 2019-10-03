@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">City Time</string>
+    <string name="press_the_button_to_update_the_time_for_new_york">Press the button to update the time for New York</string>
+    <string name="refresh_24hour_time">Refresh - 24Hour Time</string>
+    <string name="refresh_12hour_time">Refresh -12Hour Time</string>
+    <string name="press_the_button_to_update_the_time_for_sydney">Press the button to update the time for Sydney</string>
+    <string name="hide_sydney">Hide Sydney</string>
+    <string name="show_sydney">Show Sydney</string>
+    <string name="press_the_button_to_update_the_time_for_tokyo">Press the button to update the time for Tokyo</string>
+    <string name="hide_tokyo">Hide Tokyo</string>
+    <string name="show_tokyo">Show Tokyo</string>
+    <string name="press_the_button_to_update_the_time_for_shanghai">Press the button to update the time for Shanghai</string>
+    <string name="hide_shanghai">Hide Shanghai</string>
+    <string name="show_shanghai">Show Shanghai</string>
+    <string name="hide_new_york">Hide New York</string>
+    <string name="show_new_york">Show new york</string>
+    <string name="press_the_button_to_update_the_time_for_egypt">Press the button to update the time for Egypt</string>
+    <string name="hide_egypt">Hide Egypt</string>
+    <string name="show_egypt">Show Egypt</string>
+</resources>
